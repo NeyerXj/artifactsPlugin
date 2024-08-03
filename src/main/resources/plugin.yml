@@ -1,0 +1,4 @@
+name: artifactsPlugin
+version: '${project.version}'
+main: org.example.neyer.artifactsplugin.ArtifactsPlugin
+api-version: 1.21
